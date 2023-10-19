@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "156081350057",
+    "firebase_url": "https://heladerascarniceria-default-rtdb.firebaseio.com",
+    "project_id": "heladerascarniceria",
+    "storage_bucket": "heladerascarniceria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156081350057:android:6454ee60042ab5665f50b8",
+        "android_client_info": {
+          "package_name": "com.chucho.freezemobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZSCYMdie4xLSGfjuEnf1BwXxNidPvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156081350057:android:bf681a051c1b6e095f50b8",
+        "android_client_info": {
+          "package_name": "com.freezemobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZSCYMdie4xLSGfjuEnf1BwXxNidPvZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
